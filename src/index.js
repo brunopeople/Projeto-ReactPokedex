@@ -1,8 +1,16 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+function App(){
+  return(
+    <div className="app-wrapper">
+
+    </div>
+  )
+}
 
 ReactDOM.render(
   <React.StrictMode>
