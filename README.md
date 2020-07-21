@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Este projeto foi criado pelo Framework React.js. Ele consiste numa aplicação onde se consome uma API do Pokedex e traz os pokemons e o usuário clicka em um botão para captura-los e sequiser pode até excluir da lista. 
+
 ## Available Scripts
 
 In the project directory, you can run:
